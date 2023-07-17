@@ -10,4 +10,5 @@ Heartbeat abnormalities detection from ECG signal
 
 Proposed model 
 
-![model (1)](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/2d87c6a7-f23e-4996-b987-262a1a3dc08c)
+![model2](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/4d01f247-5cd4-4eeb-bf1f-47c542626840)
+
