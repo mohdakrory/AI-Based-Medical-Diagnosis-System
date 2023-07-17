@@ -12,3 +12,8 @@ Proposed model
 
 ![model2](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/4d01f247-5cd4-4eeb-bf1f-47c542626840)
 
+Results comparison with the state of the art
+
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/fa7d3f29-12e8-4fe3-80f6-c8b16f0f46b2)
+
+[1] rgrtgrtg
