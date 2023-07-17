@@ -5,4 +5,9 @@ Heartbeat abnormalities detection from ECG signal
 --
 
 [The MIT-BIH Arrhythmia Database](https://www.kaggle.com/datasets/shayanfazeli/heartbeat) 
+
 ![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/11daea27-a030-48ab-af3f-6a1a7447b6d8)
+
+Proposed model 
+
+![model (1)](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/2d87c6a7-f23e-4996-b987-262a1a3dc08c)
