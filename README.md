@@ -202,6 +202,8 @@ Brain tumor detection from MRI images
   </tr>
 </table>
 
+![curves](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/bae028d9-92a7-4d5e-9dfc-00c003a749fc)
+
 ![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/a051a61f-c1b2-4ba7-8233-0447cf3061b1)
 
 ***Kaggle training notebook***
