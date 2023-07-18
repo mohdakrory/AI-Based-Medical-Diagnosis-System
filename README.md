@@ -2,7 +2,7 @@
 
 Caution
 --
-**This project is a prototype as a proof of concept and conn't be used in real world cases**
+**This project is a prototype as a proof of concept and con't be used in real world cases**
 
 Heartbeat abnormalities detection from ECG signal
 --
