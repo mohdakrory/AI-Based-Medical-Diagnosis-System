@@ -20,7 +20,7 @@ Q: Unclassifiable beat
 
 This Kaggle dataset was preprocessed and published by [1] 
 
-<span style="font-size: 22px;"> ***Proposed model*** </span>
+<p style="font-size: 22px;"> ***Proposed model*** </p>
 
 
 ![model2](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/4d01f247-5cd4-4eeb-bf1f-47c542626840)
