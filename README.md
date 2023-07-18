@@ -22,7 +22,18 @@ Proposed model
 
 Model performance 
 
-<table>
+<table style="table {
+    border-collapse: collapse;
+  }
+
+  table, th, td {
+    border: 1px solid gray;
+  }
+
+  th, td {
+    padding: 8px;
+    text-align: center;
+  }">
   <tr>
     <th>Accuracy</th>
     <th>Precision</th>
