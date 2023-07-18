@@ -1,4 +1,4 @@
-# AI-Based-Medical-Diagnosis-System
+![preds (6)](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/6663bc71-e1a6-48b6-b314-e0ef087fc117)![preds (5)](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/97cd6714-8826-4ea2-9d57-5df9e676fdee)# AI-Based-Medical-Diagnosis-System
 An AI-based application that offers medical diagnosis services such as Covid-19 detection from chest X-ray images, Brain tumor detection and segmentation from MRI images, Heartbeat abnormalities detection from ECG, Chest abnormalities detection and localization from chest X-ray images, and Skin cancer detection for skin images
 
 Heartbeat abnormalities detection from ECG signal
@@ -70,7 +70,7 @@ This Kaggle dataset was preprocessed and published by [1]
 
 ***Results comparison with the state of the art***
 
-![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/cb0dc9d5-3965-4ed6-a825-b60d5dbafd07)
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/04af2ba8-7a38-4e6f-8d03-ddf5df326924)
 
 ***Hardware system for real-time analysis of ECG signal***
 
@@ -155,6 +155,8 @@ Differentiate between Covid-19, Pneumonia, and the normal case from chest X-ray 
 Brain tumor detection from MRI images
 --
 
+***Differentiate between Meningioma, Glioma, Pituitary, and the normal case from MRI images***
+
 ***Dataset description***
 
 [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
@@ -210,6 +212,37 @@ Brain tumor detection from MRI images
 
 [Notebook](https://www.kaggle.com/code/mohamedeldakrory8/brain-tumor-mri-classification-graduation/notebook)
 
+Brain tumor segmentation from MRI images 
+--
+
+***Dataset description***
+
+[Brain MRI segmentation](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation)
+
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/b43a3d14-52c4-468c-8cf8-6bb9f70999fa)
+
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/8af1bf0f-efef-4b8f-8ee5-b6f44566163f)
+
+***Proposed Model***
+
+![model](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/d10a3c8f-7bc7-4b86-aee3-b0af326f0b6a)
+
+Please note that this model was trained only on samples with tumors as we have another classification model with 100% recall on the normal class so it is very good at differentiating between the normal case and other cases
+
+***Model Performance ***
+
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/d7b3fe10-dd9f-49db-ad67-e264b9b4aca1)
+
+![preds (7)](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/922903f4-a5a0-4a4b-87a8-91edd3d21b9b)
+![preds (6)](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/ec676de2-8239-455e-ab9a-34ce43801102)
+![preds (5)](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/629cfbec-3137-48df-8d74-f5eef76b8425)
+![preds (4)](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/dbeb2576-9a8e-489b-843f-6359c79c53de)
+![preds (3)](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/93a7f73b-997f-42e6-ba00-4384ce0817d3)
+![preds (2)](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/ebccaf53-b285-4c1f-ab21-06cdd40e5a7f)
+![preds (1)](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/f51683fb-db02-4a97-b000-709f27d811d9)
+![preds](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/d2307f0a-4d3e-4da4-ac30-22fdd6451af0)
+
+
 Reference
 --
 
@@ -256,6 +289,25 @@ Reference
     </td>
     <td>
       E. Cengil and A. Çınar, “The effect of deep feature	concatenation in the classification problem: An approach on COVID-19 disease detection,” Int. J. 	Imaging Syst. Technol., vol. 32, no. 1, pp. 26–40, 	2022.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      [6]
+    </td>
+    <td>
+      M. Buda, A. Saha, and M. A. Mazurowski, “Association of genomic subtypes of lower-grade gliomas with shape features automatically extracted by a deep learning algorithm,” Comput. Biol. Med., vol. 109, pp. 218–225, 2019.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      [7]
+    </td>
+    <td>
+      L. Yi, J. Zhang, R. Zhang, J. Shi, G. Wang, and X. Liu, “SU-net: An efficient encoder-decoder model of federated learning for brain tumor segmentation,” in Artificial Neural Networks and Machine Learning 	– ICANN 2020, Cham: Springer International Publishing, 2020, pp. 761–773.
+
     </td>
   </tr>
   
