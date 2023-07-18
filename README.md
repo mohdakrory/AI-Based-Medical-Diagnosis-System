@@ -136,15 +136,57 @@ Differentiate between Covid-19, Pneumonia, and the normal case from chest X-ray 
 
 ***Results comparison with the state of the art***
 
-![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/b816bebb-b881-4c60-9624-bc0df974987f)
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/c81ec6f8-a2d0-40dd-822e-4eb74635ac20)
+
 
 
 Reference
 --
 
-[1]  M. Kachuee, S. Fazeli, and M. Sarrafzadeh, “Ecg heartbeat classification: A deep transferable representation,” in 2018 IEEE International Conference on               Healthcare Informatics (ICHI), 2018, pp. 443–444.
+<table>
+  <tr>
+    <td>
+      [1]
+    </td>
+    <td>
+      M. Kachuee, S. Fazeli, and M. Sarrafzadeh, “Ecg heartbeat classification: A deep transferable representation,” in 2018 IEEE International Conference on Healthcare Informatics (ICHI), 2018, pp. 443–444.
+    </td>
+  </tr>
 
-[2]   Pirova, D., Zaberzhinsky, B., & Mashkov, A. (2020). Detecting heart 2 disease symptoms using machine learning methods. Proceedings of the Information                 Technology and Nanotechnology (ITNT-2020), 2667, 260-263.
+  <tr>
+    <td>
+      [2]
+    </td>
+    <td>
+      Pirova, D., Zaberzhinsky, B., & Mashkov, A. (2020). Detecting heart 2 disease symptoms using machine learning methods. Proceedings of the Information Technology and Nanotechnology (ITNT-2020), 2667, 260-263.
+    </td>
+  </tr>
 
-[3] Walsh, P. (2019). Support Vector Machine Learning for ECG Classification. In CERC (pp. 195-204).
+  <tr>
+    <td>
+      [3]
+    </td>
+    <td>
+      Walsh, P. (2019). Support Vector Machine Learning for ECG Classification. In CERC (pp. 195-204).
+    </td>
+  </tr>
 
+  <tr>
+    <td>
+      [4]
+    </td>
+    <td>
+      W. Wang, S. Liu, H. Xu, and L. Deng, “COVIDX-LwNet: 	A lightweight network ensemble model for the detection of COVID-19 based on chest X-ray images,” Sensors (Basel), vol. 22, no. 21, p. 8578, 	2022.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      [5]
+    </td>
+    <td>
+      E. Cengil and A. Çınar, “The effect of deep feature	concatenation in the classification problem: An approach on COVID-19 disease detection,” Int. J. 	Imaging Syst. Technol., vol. 32, no. 1, pp. 26–40, 	2022.
+    </td>
+  </tr>
+  
+</table>
