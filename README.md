@@ -1,5 +1,8 @@
-# AI-Based-Medical-Diagnosis-System
-An AI-based application that offers medical diagnosis services such as Covid-19 detection from chest X-ray images, Brain tumor detection and segmentation from MRI images, Heartbeat abnormalities detection from ECG, Chest abnormalities detection and localization from chest X-ray images, and Skin cancer detection for skin images
+#An AI-based application that offers medical diagnosis services such as Covid-19 detection from chest X-ray images, Brain tumor detection and segmentation from MRI images, Heartbeat abnormalities detection from ECG, Chest abnormalities detection and localization from chest X-ray images, and Skin cancer detection for skin images
+
+Caution
+--
+**This project is a prototype as a proof of concept and conn't be used in real world cases**
 
 Heartbeat abnormalities detection from ECG signal
 --
@@ -229,10 +232,13 @@ Brain tumor segmentation from MRI images
 
 Please note that this model was trained only on samples with tumors as we have another classification model with 100% recall on the normal class so it is very good at differentiating between the normal case and other cases
 
-***Model Performance ***
+***Results comparison with the state of the art***
 
 ![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/9ed1edbb-a4dc-4708-a3b6-850a603a9b93)
 
+***Model Performance ***
+
+![seg_curves](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/16fcbb7f-3991-4d44-af3b-99450f082d20)
 ![preds (7)](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/922903f4-a5a0-4a4b-87a8-91edd3d21b9b)
 ![preds (6)](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/ec676de2-8239-455e-ab9a-34ce43801102)
 ![preds (5)](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/629cfbec-3137-48df-8d74-f5eef76b8425)
@@ -241,6 +247,190 @@ Please note that this model was trained only on samples with tumors as we have a
 ![preds (2)](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/ebccaf53-b285-4c1f-ab21-06cdd40e5a7f)
 ![preds (1)](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/f51683fb-db02-4a97-b000-709f27d811d9)
 ![preds](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/d2307f0a-4d3e-4da4-ac30-22fdd6451af0)
+
+***Kaggle training notebook***
+[Notebook](https://www.kaggle.com/code/karimelsheery/brain-mri-segmentation/notebook)
+
+Skin cancer detection from skin images 
+--
+
+Differentiate between Malignant and Benign skin cancer from skin images 
+
+***Dataset description***
+
+[Melanoma Skin Cancer Dataset of 10000 Images](https://www.kaggle.com/datasets/hasnainjaved/melanoma-skin-cancer-dataset-of-10000-images)
+
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/bc0e04ee-9fae-4768-abdc-7e3f2ebd58d6)
+
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/1ac8c2fe-652d-4395-b389-de740bf79af0)
+
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/4f241938-d1ac-4823-a571-cf2e8b762dcf)
+
+***Proposed model***
+
+![model](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/d5c92c86-abf0-4081-a95a-be67ddbe2c35)
+
+***Model Performance***
+
+<table>
+  <tr>
+    <th>Accuracy</th>
+    <th>Precision</th>
+    <th>Recall</th>
+    <th>F1</th>
+    <th>AUC</th>
+    <th>G-mean</th>
+    <th>Kappa</th>
+  </tr>
+  <tr>
+    <td>92.10%</td>
+    <td>93.58%</td>
+    <td>90.40%</td>
+    <td>92.10%</td>
+    <td>0.9667</td>
+    <td>92.08%</td>
+    <td>84.20%</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/5cd5d1c3-3695-4bfd-bffa-97a1dba7078a">
+    </td>
+    <td>
+      <img src="https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/79945b0f-564b-46ba-acc1-c3943c11f7cc">
+    </td>
+  </tr>
+</table>
+
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/48f0cd6c-1e0c-4058-a1bd-11edee0240a0)
+
+![curves](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/1ddea717-fc15-4d4c-ab9d-0885b0a73d85)
+
+***Results comparison with the state of the art***
+
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/2c7aeff0-a372-4ed8-8984-9374b1069553)
+
+***Kaggle notebook for model training***
+
+[Notebook](https://www.kaggle.com/code/mohamedeldakrory8/skin-cancer-detection-graduation/notebook)
+
+chest X-ray abnormalities detection and localization 
+--
+
+Differentiate between 14 chest abnormalities from chest X-ray images
+
+***Dataset description***
+
+[VinBigData Chest X-ray Abnormalities Detection](https://www.kaggle.com/competitions/vinbigdata-chest-xray-abnormalities-detection)
+
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/c4fc7c6e-f7ed-4443-b1c7-06b4d28e5978)
+
+<table>
+  <tr>
+    <th>Class name</th>
+    <th>Class ID</th>
+    <th>Class frequency</th>
+  </tr>
+  <tr>
+    <td>Aortic enlargement</td>
+    <td>0</td>
+    <td>7162</td>
+  </tr>
+  <tr>
+    <td>Atelectasis</td>
+    <td>1</td>
+    <td>279</td>
+  </tr>
+  <tr>
+    <td>Calcification</td>
+    <td>2</td>
+    <td>960</td>
+  </tr>
+  <tr>
+    <td>Cardiomegaly</td>
+    <td>3</td>
+    <td>5427</td>
+  </tr>
+  <tr>
+    <td>Consolidation</td>
+    <td>4</td>
+    <td>556</td>
+  </tr>
+  <tr>
+    <td>Interstitial lung disease (ILD)</td>
+    <td>5</td>
+    <td>1000</td>
+  </tr>
+  <tr>
+    <td>Infiltration</td>
+    <td>6</td>
+    <td>1247</td>
+  </tr>
+  <tr>
+    <td>Lung Opacity</td>
+    <td>7</td>
+    <td>2483</td>
+  </tr>
+  <tr>
+    <td>Nodule/Mass</td>
+    <td>8</td>
+    <td>2580</td>
+  </tr>
+  <tr>
+    <td>Other lesion</td>
+    <td>9</td>
+    <td>2203</td>
+  </tr>
+  <tr>
+    <td>Pleural effusion</td>
+    <td>10</td>
+    <td>2476</td>
+  </tr>
+  <tr>
+    <td>Pleural thickening</td>
+    <td>11</td>
+    <td>4842</td>
+  </tr>
+  <tr>
+    <td>Pneumothorax</td>
+    <td>12</td>
+    <td>226</td>
+  </tr>
+  <tr>
+    <td>Pulmonary fibrosis</td>
+    <td>13</td>
+    <td>4655</td>
+  </tr>
+  <tr>
+    <td>No finding</td>
+    <td>14</td>
+    <td>10,000</td>
+  </tr>
+</table>
+
+***Yolo V5 versions***
+
+![yolo v5 versions](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/760d7e3c-95da-4519-9e07-44c974abd7c0)
+
+Yolo v5x was utilized 
+
+***Model performance***
+
+Mean average precision score (mAP0.5): 0.312
+
+![training curves](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/ad3ebe65-beb9-4c5f-8da6-ab79e24be4a3)
+
+![test samples](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/ff721315-3ea3-43c2-b009-cb0815ddfeb9)
+
+*** Results comparison with the state of the art***
+
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/c9d62d97-7e3c-4ee7-9445-396f458b78d6)
+
+***Kaggle notebook for model training***
+
+[Notebook](https://www.kaggle.com/code/mohamedeldakrory8/vinbigdata-cxr-ad-yolov5)
 
 
 Reference
@@ -307,8 +497,43 @@ Reference
     </td>
     <td>
       L. Yi, J. Zhang, R. Zhang, J. Shi, G. Wang, and X. Liu, “SU-net: An efficient encoder-decoder model of federated learning for brain tumor segmentation,” in Artificial Neural Networks and Machine Learning 	– ICANN 2020, Cham: Springer International Publishing, 2020, pp. 761–773.
-
     </td>
   </tr>
-  
+
+  <tr>
+    <td>
+      [8]
+    </td>
+    <td>
+      A. A, “A deep learning approach to skin cancer detection in dermoscopy images,” J. Biomed. Phys. Eng., vol. 10, no. 6, 	pp. 801–806, 2020.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      [9]
+    </td>
+    <td>
+      M. Upadhyay, J. Rawat, and S. Maji, “Skin cancer image classification	using deep neural network models,” in Evolution in Computational 	Intelligence, 	Singapore: Springer Nature Singapore, 2022, pp. 	451–460.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      [10]
+    </td>
+    <td>
+      Talius, E., & Sayana, R. Zero-Shot Object Detection for Chest X-Rays.
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      [11]
+    </td>
+    <td>
+      V. Parikh, J. Shah, C. Bhatt, J. M. Corchado, and D.-N. Le, “Deep learning based automated chest X-ray abnormalities detection,” in Lecture Notes in 	Networks and Systems, Cham: Springer International Publishing, 2023, pp. 1–12.
+    </td>
+  </tr>
 </table>
+
