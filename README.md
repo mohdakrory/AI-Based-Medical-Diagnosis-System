@@ -21,8 +21,19 @@ Proposed model
 ![model2](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/4d01f247-5cd4-4eeb-bf1f-47c542626840)
 
 Model performance 
+<style>
+  .reprt-table {
+    border-collapse: collapse;
+  }
 
-<table>
+  .report-table, .report-table th, .report-table td {
+    border: 1px solid gray;
+    padding: 8px;
+    text-align: center;
+  }
+</style>
+
+<table class="report">
   <tr>
     <th>Accuracy</th>
     <th>Precision</th>
