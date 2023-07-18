@@ -21,7 +21,27 @@ Proposed model
 ![model2](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/4d01f247-5cd4-4eeb-bf1f-47c542626840)
 
 Model performance 
-![confusion matrix](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/921f10ed-c06c-4a3b-bde5-a2a54c5e0de3) ![normalized confusion matrix](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/b0d74e90-6ce9-4126-a879-e4650cf9dfe6)
+
+<table>
+  <tr>
+    <th>Accuracy</th>
+    <th>Precision</th>
+    <th>Recall</th>
+    <th>F1</th>
+    <th>AUC</th>
+    <th>G-mean</th>
+    <th>Kappa</th>
+  </tr>
+  <tr>
+    <td>97.11%</td>
+    <td>97.17%</td>
+    <td>97.09%</td>
+    <td>97.11%</td>
+    <td>0.9960</td>
+    <td>94.62%</td>
+    <td>90.94%</td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -33,6 +53,10 @@ Model performance
     </td>
   </tr>
 </table>
+
+![curves](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/f52c18c4-aa5b-41e5-85e6-22e9f3780f23)
+
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/9a0b69a4-05bd-4161-a83b-c80ce833863d)
 
 Results comparison with the state of the art
 
