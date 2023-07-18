@@ -86,6 +86,7 @@ Covid-19 detection from chest X-ray images
 Differentiate between Covid-19, Pneumonia, and the normal case from chest X-ray images
 
 ***Dataset description***
+
 [COVID19_Pneumonia_Normal_Chest_Xray_PA_Dataset]([https://www.kaggle.com/datasets/shayanfazeli/heartbeat](https://www.kaggle.com/datasets/amanullahasraf/covid19-pneumonia-normal-chest-xray-pa-dataset)) 
 
 2313 samples for each class (Balanced) - 
