@@ -82,7 +82,7 @@ This Kaggle dataset was preprocessed and published by [1]
 
 ***Kaggle training notebook***
 
-[notebook](https://www.kaggle.com/code/mohamedeldakrory8/heartbeat-classification-from-ecg-graduation)
+[Notebook](https://www.kaggle.com/code/mohamedeldakrory8/heartbeat-classification-from-ecg-graduation)
 
 Covid-19 detection from chest X-ray images 
 --
@@ -150,16 +150,61 @@ Differentiate between Covid-19, Pneumonia, and the normal case from chest X-ray 
 
 ***Kaggle training notebook***
 
-[notebook](https://www.kaggle.com/code/mohamedeldakrory8/covid-19-chest-x-ray-graduation)
+[Notebook](https://www.kaggle.com/code/mohamedeldakrory8/covid-19-chest-x-ray-graduation)
 
-Brain tumor detection and segmentation from MRI images
+Brain tumor detection from MRI images
 --
 
 ***Dataset description***
 
+[Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+
 ![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/4ab77fde-e07c-41d7-8009-cdb8613b9f55)
 ![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/10551bbf-85cb-4bff-b4ca-8d2810fdc124)
 
+***Proposed model***
+
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/bcb242d4-2d93-43ca-a3ee-8329df9c1146)
+
+***Model performance***
+
+<table>
+  <tr>
+    <th>Accuracy</th>
+    <th>Precision</th>
+    <th>Recall</th>
+    <th>F1</th>
+    <th>AUC</th>
+    <th>G-mean</th>
+    <th>Kappa</th>
+  </tr>
+  <tr>
+    <td>99.08%</td>
+    <td>99.08%</td>
+    <td>99.01%</td>
+    <td>99.04%</td>
+    <td>0.9998</td>
+    <td>98.34%</td>
+    <td>97.67%</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/f8f5e671-3c58-4962-906d-edfe7147c31e">
+    </td>
+    <td>
+      <img src="https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/05d37008-566c-4c18-bf95-bf47b2912f3d">
+    </td>
+  </tr>
+</table>
+
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/a051a61f-c1b2-4ba7-8233-0447cf3061b1)
+
+***Kaggle training notebook***
+
+[Notebook](https://www.kaggle.com/code/mohamedeldakrory8/brain-tumor-mri-classification-graduation/notebook)
 
 Reference
 --
