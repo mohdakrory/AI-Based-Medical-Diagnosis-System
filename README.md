@@ -96,8 +96,50 @@ Differentiate between Covid-19, Pneumonia, and the normal case from chest X-ray 
 
 ![VGG19+AFR](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/54d74ec0-8b0c-42d3-a933-e63de63da8be)
 
+***Model performance*** 
 
-References
+<table>
+  <tr>
+    <th>Accuracy</th>
+    <th>Precision</th>
+    <th>Recall</th>
+    <th>F1</th>
+    <th>AUC</th>
+    <th>G-mean</th>
+    <th>Kappa</th>
+  </tr>
+  <tr>
+    <td>96.10%</td>
+    <td>96.10%</td>
+    <td>96.10%</td>
+    <td>96.10%</td>
+    <td>0.9836</td>
+    <td>96.07%</td>
+    <td>94.15%</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/65d0d2d2-1c8d-4dd6-aeae-e1b96122da3a" alt="Image 1">
+    </td>
+    <td>
+      <img src="https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/da7c46d9-3d4f-44aa-9f90-fdc5d6229dc3" alt="Image 2">
+    </td>
+  </tr>
+</table>
+
+![curves](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/c1926be0-69b4-40fe-9006-d5e33e764303)
+
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/0b0674c2-d7dd-44a7-9dd6-660f23a696ac)
+
+***Results comparison with the state of the art***
+
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/b816bebb-b881-4c60-9624-bc0df974987f)
+
+
+Reference
 --
 
 [1]  M. Kachuee, S. Fazeli, and M. Sarrafzadeh, “Ecg heartbeat classification: A deep transferable representation,” in 2018 IEEE International Conference on               Healthcare Informatics (ICHI), 2018, pp. 443–444.
