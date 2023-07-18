@@ -86,6 +86,7 @@ Covid-19 detection from chest X-ray images
 Differentiate between Covid-19, Pneumonia, and the normal case from chest X-ray images
 
 ***Dataset description***
+[COVID19_Pneumonia_Normal_Chest_Xray_PA_Dataset]([https://www.kaggle.com/datasets/shayanfazeli/heartbeat](https://www.kaggle.com/datasets/amanullahasraf/covid19-pneumonia-normal-chest-xray-pa-dataset)) 
 
 2313 samples for each class (Balanced) - 
 6939 samples in total
@@ -138,6 +139,21 @@ Differentiate between Covid-19, Pneumonia, and the normal case from chest X-ray 
 
 ![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/c81ec6f8-a2d0-40dd-822e-4eb74635ac20)
 
+***Demo***
+
+![005](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/c6373823-5e02-4ec8-8c71-8447bc950733)
+
+***Kaggle training notebook***
+
+https://www.kaggle.com/code/mohamedeldakrory8/covid-19-chest-x-ray-graduation
+
+Brain tumor detection and segmentation from MRI images
+--
+
+***Dataset description***
+
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/4ab77fde-e07c-41d7-8009-cdb8613b9f55)
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/10551bbf-85cb-4bff-b4ca-8d2810fdc124)
 
 
 Reference
