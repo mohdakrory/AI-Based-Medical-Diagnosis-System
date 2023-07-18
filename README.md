@@ -1,4 +1,4 @@
-![preds (6)](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/6663bc71-e1a6-48b6-b314-e0ef087fc117)![preds (5)](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/97cd6714-8826-4ea2-9d57-5df9e676fdee)# AI-Based-Medical-Diagnosis-System
+# AI-Based-Medical-Diagnosis-System
 An AI-based application that offers medical diagnosis services such as Covid-19 detection from chest X-ray images, Brain tumor detection and segmentation from MRI images, Heartbeat abnormalities detection from ECG, Chest abnormalities detection and localization from chest X-ray images, and Skin cancer detection for skin images
 
 Heartbeat abnormalities detection from ECG signal
