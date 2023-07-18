@@ -5,17 +5,6 @@ Heartbeat abnormalities detection from ECG signal
 --
 
 [The MIT-BIH Arrhythmia Database](https://www.kaggle.com/datasets/shayanfazeli/heartbeat) 
-|Architecture|	Temporal| dependency|	Handling data imbalance|	Remarks|	Accuracy|	MacroF1|
-|------------|----------------------|------------------------|---------|----------|--------|
-Resampling the test data to 800 
-[15]	Residual
-CNN	-	Oversampling	Low recall on S,F classes	93.4%	
-Ours	CNN+AFR	Bi-LSTM	Weighted loss	Good recall 	95.10%	
-Test data as it is 
-[71]	CNN	-	Oversampling	Low recall on S,F classes	93.47%	
-[72]	SVM	-	-	Low recall		82%
-Ours	CNN+AFR	Bi-LSTM	Weighted loss	Good recall 	97.11%	85.48%
-
 
 ![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/11daea27-a030-48ab-af3f-6a1a7447b6d8)
 
@@ -25,6 +14,7 @@ Proposed model
 
 Results comparison with the state of the art
 
-![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/fa7d3f29-12e8-4fe3-80f6-c8b16f0f46b2)
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/cb0dc9d5-3965-4ed6-a825-b60d5dbafd07)
 
-[1] rgrtgrtg
+
+[1] 
