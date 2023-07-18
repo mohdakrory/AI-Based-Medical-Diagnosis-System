@@ -146,7 +146,7 @@ Differentiate between Covid-19, Pneumonia, and the normal case from chest X-ray 
 
 ***Demo***
 
-![010](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/015fbf42-3319-4a12-8055-ffd48b72e709)
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/c8ed3e86-220d-4822-841e-a3d764f6244b)
 
 ***Kaggle training notebook***
 
