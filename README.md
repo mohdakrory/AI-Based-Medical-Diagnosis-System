@@ -253,6 +253,7 @@ Please note that this model was trained only on samples with tumors as we have a
 ![005](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/0d66b8cb-19ea-4770-a14c-738b1e61d30a)
 
 ***Kaggle notebook for model training***
+
 [Notebook](https://www.kaggle.com/code/karimelsheery/brain-mri-segmentation/notebook)
 
 Skin cancer detection from skin images 
