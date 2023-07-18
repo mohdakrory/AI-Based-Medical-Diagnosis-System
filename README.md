@@ -231,7 +231,7 @@ Please note that this model was trained only on samples with tumors as we have a
 
 ***Model Performance ***
 
-![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/d7b3fe10-dd9f-49db-ad67-e264b9b4aca1)
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/9ed1edbb-a4dc-4708-a3b6-850a603a9b93)
 
 ![preds (7)](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/922903f4-a5a0-4a4b-87a8-91edd3d21b9b)
 ![preds (6)](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/ec676de2-8239-455e-ab9a-34ce43801102)
