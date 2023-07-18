@@ -80,6 +80,10 @@ This Kaggle dataset was preprocessed and published by [1]
 
 ![013](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/47500e6a-a202-4078-959f-4774a023af71)
 
+***Kaggle training notebook***
+
+[notebook](https://www.kaggle.com/code/mohamedeldakrory8/heartbeat-classification-from-ecg-graduation)
+
 Covid-19 detection from chest X-ray images 
 --
 
@@ -87,7 +91,7 @@ Differentiate between Covid-19, Pneumonia, and the normal case from chest X-ray 
 
 ***Dataset description***
 
-[COVID19_Pneumonia_Normal_Chest_Xray_PA_Dataset]([https://www.kaggle.com/datasets/shayanfazeli/heartbeat](https://www.kaggle.com/datasets/amanullahasraf/covid19-pneumonia-normal-chest-xray-pa-dataset)) 
+[COVID19_Pneumonia_Normal_Chest_Xray_PA_Dataset](https://www.kaggle.com/datasets/amanullahasraf/covid19-pneumonia-normal-chest-xray-pa-dataset)
 
 2313 samples for each class (Balanced) - 
 6939 samples in total
@@ -146,7 +150,7 @@ Differentiate between Covid-19, Pneumonia, and the normal case from chest X-ray 
 
 ***Kaggle training notebook***
 
-https://www.kaggle.com/code/mohamedeldakrory8/covid-19-chest-x-ray-graduation
+[notebook](https://www.kaggle.com/code/mohamedeldakrory8/covid-19-chest-x-ray-graduation)
 
 Brain tumor detection and segmentation from MRI images
 --
