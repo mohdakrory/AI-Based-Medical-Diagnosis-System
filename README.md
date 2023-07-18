@@ -4,6 +4,8 @@ An AI-based application that offers medical diagnosis services such as Covid-19 
 Heartbeat abnormalities detection from ECG signal
 --
 
+***Dataset description***
+
 [The MIT-BIH Arrhythmia Database](https://www.kaggle.com/datasets/shayanfazeli/heartbeat) 
 
 ![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/ad3b1e4b-dfcd-40a7-a9f2-eb85bf3178a3)
@@ -18,10 +20,11 @@ F: Fusion of ventricular and normal beat
 
 Q: Unclassifiable beat
 
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/98566aff-4822-4f31-829a-09a097fcf59c)
+
 This Kaggle dataset was preprocessed and published by [1] 
 
-<p style="font-size: 22px;"> Proposed model </p>
-
+***Proposed model***
 
 ![model2](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/4d01f247-5cd4-4eeb-bf1f-47c542626840)
 
