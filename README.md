@@ -146,7 +146,7 @@ Differentiate between Covid-19, Pneumonia, and the normal case from chest X-ray 
 
 ***Demo***
 
-![005](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/c6373823-5e02-4ec8-8c71-8447bc950733)
+![010](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/015fbf42-3319-4a12-8055-ffd48b72e709)
 
 ***Kaggle training notebook***
 
@@ -164,7 +164,7 @@ Brain tumor detection from MRI images
 
 ***Proposed model***
 
-![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/bcb242d4-2d93-43ca-a3ee-8329df9c1146)
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/ad1744f8-843e-4002-b7b0-e56a94b6f94a)
 
 ***Model performance***
 
