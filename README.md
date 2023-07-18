@@ -8,6 +8,14 @@ Heartbeat abnormalities detection from ECG signal
 
 ![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/ad3b1e4b-dfcd-40a7-a9f2-eb85bf3178a3)
 
+N: Normal beat
+S: Supraventricular premature beat
+V: Premature ventricular contraction
+F: Fusion of ventricular and normal beat
+Q: Unclassifiable beat
+
+This Kaggle dataset was preprocessed and published by [1] 
+
 Proposed model 
 
 ![model2](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/4d01f247-5cd4-4eeb-bf1f-47c542626840)
@@ -16,6 +24,14 @@ Results comparison with the state of the art
 
 ![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/cb0dc9d5-3965-4ed6-a825-b60d5dbafd07)
 
+Hardware system for real-time analysis of ECG signal 
+
+![diagram](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/59af1a62-55cd-421a-bc3d-8f7ed82d4705)
+
+
+
+References
+--
 
 [1]  M. Kachuee, S. Fazeli, and M. Sarrafzadeh, “Ecg heartbeat classification: A deep transferable representation,” in 2018 IEEE International Conference on               Healthcare Informatics (ICHI), 2018, pp. 443–444.
 
