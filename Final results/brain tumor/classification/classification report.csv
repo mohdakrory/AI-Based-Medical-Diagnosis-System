@@ -1,0 +1,9 @@
+,Class Name,precision,recall,f1-score,support
+0,glioma,0.9966,0.9833,0.9899,300
+1,meningioma,0.9804,0.9804,0.9804,306
+2,notumor,0.9926,1,0.9963,405
+3,pituitary,0.9934,0.9967,0.995,300
+,,,,,
+accuracy,,,,0.9908,897
+macro avg,,0.9908,0.9901,0.9904,897
+weighted avg,,0.9909,0.9908,0.9908,897
