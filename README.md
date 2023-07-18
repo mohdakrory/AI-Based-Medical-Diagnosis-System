@@ -2,13 +2,14 @@
 An AI-based application that offers medical diagnosis services such as Covid-19 detection from chest X-ray images, Brain tumor detection and segmentation from MRI images, Heartbeat abnormalities detection from ECG, Chest abnormalities detection and localization from chest X-ray images, and Skin cancer detection for skin images
 
 Heartbeat abnormalities detection from ECG signal
+differentiate between Supraventricular premature beat, Premature ventricular contraction, Fusion of ventricular beat, and the normal case 
 --
 
 ***Dataset description***
 
 [The MIT-BIH Arrhythmia Database](https://www.kaggle.com/datasets/shayanfazeli/heartbeat) 
 
-![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/ad3b1e4b-dfcd-40a7-a9f2-eb85bf3178a3)
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/b2606578-813a-421c-a48f-ed5ac160bdbe)
 
 N: Normal beat 
 
@@ -16,7 +17,7 @@ S: Supraventricular premature beat
 
 V: Premature ventricular contraction
 
-F: Fusion of ventricular and normal beat
+F: Fusion of ventricular beat
 
 Q: Unclassifiable beat
 
@@ -74,6 +75,11 @@ This Kaggle dataset was preprocessed and published by [1]
 
 ![diagram](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/59af1a62-55cd-421a-bc3d-8f7ed82d4705)
 
+***Demo***
+
+![013](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/47500e6a-a202-4078-959f-4774a023af71)
+
+Covid-19 detection from chest x-ray images 
 
 
 References
