@@ -83,7 +83,7 @@ This Kaggle dataset was preprocessed and published by [1]
 
 ![013](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/47500e6a-a202-4078-959f-4774a023af71)
 
-***Kaggle training notebook***
+***Kaggle notebook for model training***
 
 [Notebook](https://www.kaggle.com/code/mohamedeldakrory8/heartbeat-classification-from-ecg-graduation)
 
@@ -151,7 +151,7 @@ Differentiate between Covid-19, Pneumonia, and the normal case from chest X-ray 
 
 ![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/c8ed3e86-220d-4822-841e-a3d764f6244b)
 
-***Kaggle training notebook***
+***Kaggle notebook for model training***
 
 [Notebook](https://www.kaggle.com/code/mohamedeldakrory8/covid-19-chest-x-ray-graduation)
 
@@ -211,7 +211,7 @@ Brain tumor detection from MRI images
 
 ![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/a051a61f-c1b2-4ba7-8233-0447cf3061b1)
 
-***Kaggle training notebook***
+***Kaggle notebook for model training***
 
 [Notebook](https://www.kaggle.com/code/mohamedeldakrory8/brain-tumor-mri-classification-graduation/notebook)
 
@@ -248,7 +248,11 @@ Please note that this model was trained only on samples with tumors as we have a
 ![preds (1)](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/f51683fb-db02-4a97-b000-709f27d811d9)
 ![preds](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/d2307f0a-4d3e-4da4-ac30-22fdd6451af0)
 
-***Kaggle training notebook***
+***Demo***
+
+![005](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/0d66b8cb-19ea-4770-a14c-738b1e61d30a)
+
+***Kaggle notebook for model training***
 [Notebook](https://www.kaggle.com/code/karimelsheery/brain-mri-segmentation/notebook)
 
 Skin cancer detection from skin images 
@@ -311,6 +315,11 @@ Differentiate between Malignant and Benign skin cancer from skin images
 ***Results comparison with the state of the art***
 
 ![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/2c7aeff0-a372-4ed8-8984-9374b1069553)
+
+***Demo***
+
+![017](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/e54e513d-f200-4754-b6c2-1fcb71b2a57e)
+
 
 ***Kaggle notebook for model training***
 
@@ -424,14 +433,21 @@ Mean average precision score (mAP0.5): 0.312
 
 ![test samples](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/ff721315-3ea3-43c2-b009-cb0815ddfeb9)
 
-*** Results comparison with the state of the art***
+Predictions (Left) VS Actual (Right) 
+
+***Results comparison with the state of the art***
 
 ![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/c9d62d97-7e3c-4ee7-9445-396f458b78d6)
+
+***Demo***
+
+![015](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/a9547feb-776b-40ca-87dc-8f31505e1baa)
 
 ***Kaggle notebook for model training***
 
 [Notebook](https://www.kaggle.com/code/mohamedeldakrory8/vinbigdata-cxr-ad-yolov5)
 
+***For more details about experiments on each service, method validation, and online testing please check the MDS.pptx file*** 
 
 Reference
 --
