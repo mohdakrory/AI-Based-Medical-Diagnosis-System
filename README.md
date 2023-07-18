@@ -8,10 +8,14 @@ Heartbeat abnormalities detection from ECG signal
 
 ![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/ad3b1e4b-dfcd-40a7-a9f2-eb85bf3178a3)
 
-N: Normal beat \n
+N: Normal beat 
+
 S: Supraventricular premature beat
+
 V: Premature ventricular contraction
+
 F: Fusion of ventricular and normal beat
+
 Q: Unclassifiable beat
 
 This Kaggle dataset was preprocessed and published by [1] 
@@ -21,19 +25,8 @@ This Kaggle dataset was preprocessed and published by [1]
 ![model2](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/4d01f247-5cd4-4eeb-bf1f-47c542626840)
 
 ***Model performance*** 
-<style>
-  .reprt-table {
-    border-collapse: collapse;
-  }
 
-  .report-table, .report-table th, .report-table td {
-    border: 1px solid gray;
-    padding: 8px;
-    text-align: center;
-  }
-</style>
-
-<table class="report">
+<table>
   <tr>
     <th>Accuracy</th>
     <th>Precision</th>
