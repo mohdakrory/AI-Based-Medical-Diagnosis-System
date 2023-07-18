@@ -80,7 +80,21 @@ This Kaggle dataset was preprocessed and published by [1]
 
 ![013](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/47500e6a-a202-4078-959f-4774a023af71)
 
-Covid-19 detection from chest x-ray images 
+Covid-19 detection from chest X-ray images 
+--
+
+Differentiate between Covid-19, Pneumonia, and the normal case from chest X-ray images
+
+***Dataset description***
+
+2313 samples for each class (Balanced) - 
+6939 samples in total
+
+![covid-dataset-samples](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/9f8e348d-a40b-457f-b023-77c6b8a7ce41)
+
+***Proposed model***
+
+![VGG19+AFR](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/54d74ec0-8b0c-42d3-a933-e63de63da8be)
 
 
 References
