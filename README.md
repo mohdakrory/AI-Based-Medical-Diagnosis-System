@@ -448,7 +448,7 @@ Predictions (Left) VS Actual (Right)
 
 [Notebook](https://www.kaggle.com/code/mohamedeldakrory8/vinbigdata-cxr-ad-yolov5)
 
-***For more details about experiments on each service, method validation, and online testing please check the MDS.pdf file*** 
+***For more details about experiments on each service, method validation, and online testing please check the Documentation/MDS.pdf file*** 
 
 References
 --
