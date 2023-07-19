@@ -1,0 +1,29 @@
+pip install tensorflow=2.11.0
+
+pip install opencv-python=4.7.0.72
+
+pip install matplotlib=3.4.3
+
+pip install numpy=1.20.3
+
+pip install scipy=1.7.1
+
+pip install keras=2.11.0
+
+pip install torch=2.0.0
+
+pip install wfdb=4.1.0
+
+pip install biosppy=1.0.0
+
+pip install paho-mqtt=1.6.1
+
+# for desktop app 
+
+pip install PyQt5=5.15.9
+
+pip install PyQt5Designer=5.14.1
+
+# for web app
+
+ pip install Flask=1.1.2
