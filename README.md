@@ -73,7 +73,7 @@ This Kaggle dataset was preprocessed and published by [1]
 
 ***Results comparison with the state of the art***
 
-![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/04af2ba8-7a38-4e6f-8d03-ddf5df326924)
+![image](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/cfafdf02-f634-41ef-981d-91b8fedb7856)
 
 ***Hardware system for real-time analysis of ECG signal***
 
