@@ -1,7 +1,0 @@
-,Class Name,precision,recall,f1-score,support
-0,benign,0.9072,0.938,0.9223,500
-1,malignant,0.9358,0.904,0.9196,500
-,,,,,
-accuracy,,,,0.921,1000
-macro avg,,0.9215,0.921,0.921,1000
-weighted avg,,0.9215,0.921,0.921,1000

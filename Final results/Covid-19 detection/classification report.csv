@@ -1,8 +1,0 @@
-,Class Name,precision,recall,f1-score,support
-0,covid,0.9896,0.9695,0.9795,295
-1,normal,0.911,0.9867,0.9474,301
-2,pneumonia,0.9894,0.9269,0.9571,301
-,,,,,
-accuracy,,,,0.961,897
-macro avg,,0.9633,0.961,0.9613,897
-weighted avg,,0.9632,0.961,0.9612,897
