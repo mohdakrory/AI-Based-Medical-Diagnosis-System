@@ -77,7 +77,7 @@ This Kaggle dataset was preprocessed and published by [1]
 
 ### Hardware system for real-time analysis of ECG signal
 
-#### Over all diagram
+#### Overall diagram
 
 ![diagram](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/59af1a62-55cd-421a-bc3d-8f7ed82d4705)
 
@@ -87,7 +87,9 @@ This Kaggle dataset was preprocessed and published by [1]
 
 #### Demo
 
-Click (here)[https://drive.google.com/drive/folders/1msBJXmjWcTUA2egCr5LFz5QF3hlZp3pG] to see the hardware system in operation
+![016](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/edee2c3f-750a-4ce6-a089-aa69935ad969)
+
+Click [here](https://drive.google.com/drive/folders/1msBJXmjWcTUA2egCr5LFz5QF3hlZp3pG) to see the hardware system in operation
 
 You can find a video demo of this System [here](https://drive.google.com/file/d/1XEJtzw0dzgUyQ-4QIH5B-__w-oMspPG7/view?usp=sharing)
 
