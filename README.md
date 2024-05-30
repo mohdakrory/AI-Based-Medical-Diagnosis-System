@@ -87,7 +87,7 @@ This Kaggle dataset was preprocessed and published by [1]
 
 ![over all flow diagram](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/a464fea2-5454-4a0c-93f5-630483c80a2e)
 
-#### Demo
+#### Hardware system Demo
 
 ![016](https://github.com/mohdakrory/AI-Based-Medical-Diagnosis-System/assets/67663339/edee2c3f-750a-4ce6-a089-aa69935ad969)
 
